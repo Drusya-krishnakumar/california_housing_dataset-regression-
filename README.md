@@ -56,6 +56,3 @@ This project aims to evaluate and compare various regression algorithms on the *
 
 ---
 
-## 🗂️ Project Structure
-
-# california_housing_dataset-regression-
